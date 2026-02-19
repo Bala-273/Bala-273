@@ -1,4 +1,4 @@
-![Banner](./assets/vader.png)
+![Banner](./assets/banner.png)
 ## Hi there 👋
 
 
